@@ -10,7 +10,5 @@ function setup() {
     line(i, 0, i, height);
     line(0, i, width, i);
   }
-
-  noStroke();
 }
 ```
