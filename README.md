@@ -13,3 +13,10 @@ function setup() {
   }
 }
 ```
+
+```js
+for(let i = 0; i < 40; i++){
+    fill(255);
+    ellipse(random(0, 200), random(0,200), 20, 20);
+}
+
